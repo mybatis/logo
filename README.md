@@ -1,6 +1,6 @@
 MyBatis Logo
 ============
 
-![mybatis-logo](http://mybatis.github.io/images/mybatis-logo.png)
+![mybatis-logo](https://mybatis.org/images/mybatis-logo.png)
 
 MyBatis Ninja Logo.
